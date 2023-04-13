@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @laithanhdat
-- 👀 I’m interested in technology and its application for learning as well as education
-- 🌱 I’m currently learning CS
+- 👋 Hi, I’m Steve
+- 👀 I’m interested in computer vision and the application of AI in CV 
+- 🌱 I’m currently an undergraduate student in Vietnam
 - 📫 Reach me via fcx8nv@gmail.com
 
 <!---
