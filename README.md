@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steve
-- 👀 I’m interested in computer vision and the application of AI in CV 
+- 👀 I’m interested in computer vision and the application of AI with CV
 - 🌱 I’m currently an undergraduate student in Vietnam
 - 📫 Reach me via fcx8nv@gmail.com
 
